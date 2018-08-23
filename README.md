@@ -1,5 +1,5 @@
 # Patatap
-A patatap clone [www..patatap.com], using Vanilla JS, Howler JS and Paper-JS. 
+A patatap clone (https://patatap.com/), using Vanilla JS, Howler JS and Paper-JS. 
 
 #
 The project is live on Github pages:
